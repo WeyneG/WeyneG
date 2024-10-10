@@ -10,6 +10,20 @@
 ## Olá! Eu sou o Weyne Gabriel 👋
 
 <p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Universidade de Fortaleza(UNIFOR). Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho ânimo por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+
+
+
+  
+<div align="center">
+  
+  ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=WeyneG&show_icons=true&theme=radical&bg_color=000000&title_color=800080&text_color=00ff00&icon_color=0000ff)
+
+</div>
+
+
+
+
+
   
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
@@ -28,6 +42,15 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Weyne-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
+
+ <div style="flex-basis: 48%;">
+    <h3>Tools</h3>
+    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+    <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <img align="center" alt="IntelliJ" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
+
+
+  </div>
 
 ##
 <div align="center">
