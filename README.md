@@ -1,10 +1,11 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7A4DFF&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
 
 <img align="center" alt="" src="./src/header-gif.gif">
+
 
 
 ## Olá! Eu sou o Weyne Gabriel 👋
@@ -16,10 +17,9 @@
   
 <div align="center">
   
-  ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=WeyneG&show_icons=true&theme=radical&bg_color=000000&title_color=800080&text_color=00ff00&icon_color=0000ff)
+  ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=WeyneG&show_icons=true&theme=radical&bg_color=000000&title_color=027fe9&text_color=7A4DFF&icon_color=29ffc9&border_color=29ffc9)
 
 </div>
-
 
 
 
