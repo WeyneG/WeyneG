@@ -11,11 +11,9 @@
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6)](mailto:weynegabrielra@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=32CD99)](https://www.linkedin.com/in/weyne-gabriel-409a01219/)
 
-
 ### 🤖 Linguagens e Tecnologias
 
-
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 80px;">
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 120px;">
   <img 
     alt="HTML"
     title="HTML" 
@@ -58,7 +56,20 @@
     width="30px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"
   />
+  <img 
+    alt="MySQL" 
+    title="MySQL Workbench"
+    width="30px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+  />
+  <img 
+    alt="Canva" 
+    title="Canva"
+    width="30px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"
+  />
 </div>
+
 
 
 
