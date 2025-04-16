@@ -12,9 +12,9 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=32CD99)](https://www.linkedin.com/in/weyne-gabriel-409a01219/)
 
 
-<h3 align="left">My Stack ~</h3>
+<h3 align="left">🤖 Linguagens e Tecnologias</h3>
 
-<div style="display: flex; align-items: center; gap: 30px;">
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 80px;">
   <img 
     alt="HTML"
     title="HTML" 
@@ -59,6 +59,27 @@
   />
 </div>
 
+
+
+
+### 📊 Estatísticas
+
+<table>
+  <tr>
+    <td>
+      <img 
+        height="180em"
+        src="https://github-readme-stats.vercel.app/api?username=WeyneG&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+      />
+    </td>
+    <td>
+      <img 
+        height="180em"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeyneG&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+      />
+    </td>
+  </tr>
+</table>
 
 
 
