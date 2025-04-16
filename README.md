@@ -6,13 +6,14 @@
   
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
-<h3 align="left">Connect with me!</h3>
+###  Connect with me!
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6)](mailto:weynegabrielra@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=32CD99)](https://www.linkedin.com/in/weyne-gabriel-409a01219/)
 
 
-<h3 align="left">🤖 Linguagens e Tecnologias</h3>
+### 🤖 Linguagens e Tecnologias
+
 
 <div style="display: flex; justify-content: space-between; align-items: center; gap: 80px;">
   <img 
