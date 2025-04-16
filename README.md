@@ -2,7 +2,7 @@
 **`Desenvolvedor `**
 <p>Estudante de Análise e Desenvolvimento de Sistemas na Universidade de Fortaleza(UNIFOR). Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho ânimo por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 
-<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/WeyneG/WeyneG/output/snake.svg" alt="Snake animation" />
   
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
