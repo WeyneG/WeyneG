@@ -34,11 +34,12 @@ Systems Analysis and Development graduate (UNIFOR), currently pursuing a postgra
 ### 🧰 Tools
 <div style="display: flex; flex-wrap: wrap; justify-content: flex-start; align-items: center; gap: 24px;">
   <img alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="GitHub" title="GitHub" width="30px" src="https://cdn.simpleicons.org/github/ffffff" />
   <img alt="VSCode" title="VSCode" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   <img alt="IntelliJ" title="IntelliJ" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
   <img alt="DBeaver" title="DBeaver" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" />
+  <img alt="Bruno" title="Bruno" width="30px" src="https://raw.githubusercontent.com/usebruno/bruno/main/assets/images/logo.png" />
   <img alt="Docker" title="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-  <img alt="Canva" title="Canva" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
 </div>
 
 ### 📊 Stats
